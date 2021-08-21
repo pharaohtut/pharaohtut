@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on dapps
-- 📫 How to reach me ... 
+- I am always keeping myself updates on how to master blockchain development
 
 <!---
 pharaohtut/pharaohtut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
